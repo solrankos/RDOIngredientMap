@@ -1,3 +1,7 @@
+# RDOIngredientMap
+This map is a fork of jeanropke RDOMap. Right now is an straight up copy but the thought is it will feature all crafting an moonshine recipes and the location for the ingredients
+
+// Forked text
 # RDOMap ([website](https://jeanropke.github.io/RDOMap/))
 [![Discord](https://img.shields.io/discord/631510938016677889?label=discord)](https://discord.gg/HkU6ugT) [![GitHub](https://img.shields.io/github/license/jeanropke/RDOMap)](https://github.com/jeanropke/RDOMap/blob/master/LICENSE) [![GitHub last commit](https://img.shields.io/github/last-commit/jeanropke/RDOMap)](https://github.com/jeanropke/RDOMap/commits/master) [![GitHub issues](https://img.shields.io/github/issues-raw/jeanropke/RDOMap)](https://github.com/jeanropke/RDOMap/issues) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/jeanropke/RDOMap)](https://github.com/jeanropke/RDOMap/issues) [![GitHub repo size](https://img.shields.io/github/repo-size/jeanropke/RDOMap)](https://github.com/jeanropke/RDOMap)
 
